@@ -4,7 +4,7 @@ React Native - Net Ninja.
 Nemesis Team - Chris Pretorius
 
 # Description from Specification
-Emulate Net Ninja's YouTube React Native playlist (Gamezone)
+Emulate Net Ninja's YouTube React Native playlist (Gamezone - review application)
 
 # Bonus
 16. Provide step-by-step instructions (numbered list) on how to deploy the application on both the App and Play Store
